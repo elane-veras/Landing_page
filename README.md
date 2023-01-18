@@ -1,5 +1,5 @@
 # Landing_page_Spider_man
-![Sem título](https://user-images.githubusercontent.com/122480794/213252140-ba6fa387-aabe-4967-8210-98e3e11c0dec.png)
+![Sem título](https://user-images.githubusercontent.com/122480794/213258632-cd337765-93f2-4859-8224-5e850611c71c.png)
 
 
 -------
